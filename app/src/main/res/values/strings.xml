@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProyectoRestDesafio2</string>
+    <string-array name="itemsmenu">
+        <item>Tacos al pastor</item>
+        <item>alisado</item>
+        <item>Acetaminofen</item>
+    </string-array>
+</resources>
